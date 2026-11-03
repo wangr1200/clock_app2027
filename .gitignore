@@ -1,36 +1,4 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual Environment
-venv/
-.venv/
-env/
-ENV/
-
 # PyInstaller
-build/
-dist/
-*.spec
-
-# IDE
-.vscode/
-.idea/
-
-# Logs
-*.log
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# Temporary files
-*.tmp
-*.temp
-
-# PyQt cache
-*.qm
-
-# GitHub
-.github/copilot-instructions.md
+#build/
+#dist/
+#*.spec
